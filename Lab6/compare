@@ -1,0 +1,2 @@
+The main difference is I used the this construct to return the get methods and the generated code is more precise than mine
+Due to the readability, the human created code is better

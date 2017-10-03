@@ -1,0 +1,60 @@
+class Customer
+{
+         customer_name;
+  int customer_age;
+  int annual_income;
+  int credit_score;
+public String get_customer_name(){
+
+}
+public int get_customer_age(){
+
+}
+public int get_annual_income(){
+
+}
+public int get_credit_score(){
+
+}
+}
+
+class Account
+{
+  name;
+  int account_number;
+  int activate_days;
+  gender;
+public String get_name(){
+
+}
+public int get_account_number(){
+
+}
+public String get_gender(){
+
+}
+public int get_activate_days(){
+
+}
+}
+
+class Order
+{
+    int order_number;
+  order_date;
+  int items_count;
+  shipping_address;
+public int get_order_number(){
+
+}
+public void get_order_date(){
+
+}
+public int get_items_count(){
+
+}
+public void get_shipping_address(){
+
+}
+}
+
